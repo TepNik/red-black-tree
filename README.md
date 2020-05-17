@@ -5,6 +5,8 @@ This is the implementation of Red-Black tree on C++17. Here you can find templat
 
 This class supports move-semantics and also it is exception safe.
 
+Also here you can find file for unit-testing in Visual Studio (CppUnitTestFramework).
+
 # Public interface
 
 ### Template class rb_tree<Key_type, Value_type>
